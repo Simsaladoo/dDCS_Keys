@@ -4,19 +4,20 @@ LWin + End # for Shutdown
 LCtrl + E # to Eject
 
 # Takeoff
-LShift + Insert # steering lock
+S # Nose Wheel Steering
+O # Stow Wing Folding Handle
+H # Arrestor Hook  
 W # wheelbrake
+U # Catapult Hookup
+E # Chaff
+D # Flare
 
 # HOTAS
-H, K # for cycle MFD pages, hold to focus
-M # for Master mode control
-RAlt + Left, Right, Down, Up # for Boat
-LCtrl + Left, Right, Down, Up # for TMS
-Delete, End, PageDown, Home # for DMS
-C, V # for China Hat Aft/Fwd to zoom
-; , / . # for Slew while MFS focused
-H, J, K, U # for Coolie
-8, 7, 9, 0 # for CMS -- 7 for flares, 8 for Chaff
+C # Seeker Cage
+LShift + D, X, S, W # Weapon Select Switch
+LShift + LCtrl + S # Salute!
+# D-AMRAAM, X-Guns, S-Sidewinder, W-Sparrow
+RAlt + ; # Air Combat Maneuvering ACM Mode
 
 # Flight keys
 LCtrl + B, LShift + B # for Speed brakes
